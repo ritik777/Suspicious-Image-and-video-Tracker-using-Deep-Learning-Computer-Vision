@@ -18,6 +18,7 @@ In order to detect suspicious activity based on head and eye movements, we divid
 problem into 2 parts each of which has varying levels of complexity.
 
 Part 1 : We collected our own data of images and labelled them as clean and suspicious accordingly
+
 Part 2 : we collected burst of videos and based on frame reference we checked image classification on each frame of a video from part1 and labeled suspicious or clean
 
 # Data Collection:
