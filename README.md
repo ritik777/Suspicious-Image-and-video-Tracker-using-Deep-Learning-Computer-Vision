@@ -1,10 +1,10 @@
 # Suspicious-Image-and-video-Tracker-using-Deep-Learning-Computer-Vision
 Please read through ReadMe.docx that will make run the project on the machine with sufficient memory requirements.
 
-#Video Link
+# Video Link
 https://www.youtube.com/watch?reload=9&v=XGTTGuKL39U&feature=youtu.be
 
-#Introduction
+# Introduction
 Facial recognition and activity detection in the area of online video and image surveillance is
 becoming a more and more popular and accessible biometric method to enhance computer
 applications and detect various patterns that will help in anomaly detection in case of people
