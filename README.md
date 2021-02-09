@@ -50,6 +50,8 @@ Please go through the report to have a look at our entire work.
 
 ![sus_1](https://user-images.githubusercontent.com/58057238/107313956-a787d100-6a61-11eb-9cfd-cf2864865bb8.PNG)
 
+#Training and Validation for FInal Model
 ![sus_2](https://user-images.githubusercontent.com/58057238/107314289-51675d80-6a62-11eb-9bfd-9326dec57073.PNG)
 
+# Object Detection Prediction Output
 ![sus_3](https://user-images.githubusercontent.com/58057238/107314314-59bf9880-6a62-11eb-813a-ae22906cffcb.PNG)
