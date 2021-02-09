@@ -13,18 +13,18 @@ intelligent video surveillance systems especially because of factors like Social
 increasing number of eLearning courses and exams, and distance learning management
 systems to name a few.
 
-#Methodology for our experimentation
+# Methodology for our experimentation
 In order to detect suspicious activity based on head and eye movements, we divided our
 problem into 2 parts each of which has varying levels of complexity.
 
 Part 1 : We collected our own data of images and labelled them as clean and suspicious accordingly
 Part 2 : we collected burst of videos and based on frame reference we checked image classification on each frame of a video from part1 and labeled suspicious or clean
 
-#Data Collection:
+# Data Collection:
 We created our own dataset by trying to replicate the online exam scenario and captured
 different images and videos of friends, batchmates and family
 
-#Level of Complexity 
+# Level of Complexity 
 Part 1-Images:
 o Level-1: We start off with classifying extreme head movements as suspicious
 and no head movement as clean i.e., a person would be labelled suspicious if
@@ -42,7 +42,7 @@ o Level-1: We classify the entire video as suspicious or clean based on a predef
 o Level-2: We classify the videos by flagging or extracting parts/intervals of the
 video as suspicious or clean.
 
-#Libraries used in python
+# Libraries used in python
 Numpy, Pandas,OpenCV, Matplotlib, Scikitlearn, Tensorflow and Keras. 
 
 Please go through the report to have a look at our entire work.
