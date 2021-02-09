@@ -34,8 +34,12 @@ o Level-2: For the second level, we increase complexity by trying to classify
 subtly angled head movements (ex. At 30°, 45°, etc) as suspicious and no
 movement as clean.
 
+![sus_1](https://user-images.githubusercontent.com/58057238/107313956-a787d100-6a61-11eb-9cfd-cf2864865bb8.PNG)
+
 o Level-3: For the third level, we try capturing eye movements of the person to
 classify their activity as suspicious or clean
+
+![sus_3](https://user-images.githubusercontent.com/58057238/107314314-59bf9880-6a62-11eb-813a-ae22906cffcb.PNG)
 
 Part 2-Videos:
 o Level-1: We classify the entire video as suspicious or clean based on a predefined cut-off or threshold value (in our case we used 0.5 as cutoff)
@@ -43,15 +47,11 @@ o Level-1: We classify the entire video as suspicious or clean based on a predef
 o Level-2: We classify the videos by flagging or extracting parts/intervals of the
 video as suspicious or clean.
 
+## Training and Validation for FInal Model
+![sus_2](https://user-images.githubusercontent.com/58057238/107314289-51675d80-6a62-11eb-9bfd-9326dec57073.PNG)
+
 # Libraries used in Python
 Numpy, Pandas,OpenCV, Matplotlib, Scikitlearn, Tensorflow and Keras. 
 
 Please go through the report to have a look at our entire work.
 
-![sus_1](https://user-images.githubusercontent.com/58057238/107313956-a787d100-6a61-11eb-9cfd-cf2864865bb8.PNG)
-
-## Training and Validation for FInal Model
-![sus_2](https://user-images.githubusercontent.com/58057238/107314289-51675d80-6a62-11eb-9bfd-9326dec57073.PNG)
-
-## Object Detection Prediction Output
-![sus_3](https://user-images.githubusercontent.com/58057238/107314314-59bf9880-6a62-11eb-813a-ae22906cffcb.PNG)
