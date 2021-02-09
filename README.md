@@ -43,7 +43,7 @@ o Level-1: We classify the entire video as suspicious or clean based on a predef
 o Level-2: We classify the videos by flagging or extracting parts/intervals of the
 video as suspicious or clean.
 
-# Libraries used in python
+# Libraries used in Python
 Numpy, Pandas,OpenCV, Matplotlib, Scikitlearn, Tensorflow and Keras. 
 
 Please go through the report to have a look at our entire work.
