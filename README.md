@@ -39,6 +39,7 @@ classify their activity as suspicious or clean
 
 Part 2-Videos:
 o Level-1: We classify the entire video as suspicious or clean based on a predefined cut-off or threshold value (in our case we used 0.5 as cutoff)
+
 o Level-2: We classify the videos by flagging or extracting parts/intervals of the
 video as suspicious or clean.
 
