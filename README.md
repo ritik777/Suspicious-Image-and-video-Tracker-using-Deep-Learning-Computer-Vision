@@ -39,6 +39,7 @@ movement as clean.
 o Level-3: For the third level, we try capturing eye movements of the person to
 classify their activity as suspicious or clean
 
+## Output of Object Detection Prediction Algorithm:
 ![sus_3](https://user-images.githubusercontent.com/58057238/107314314-59bf9880-6a62-11eb-813a-ae22906cffcb.PNG)
 
 Part 2-Videos:
@@ -47,7 +48,7 @@ o Level-1: We classify the entire video as suspicious or clean based on a predef
 o Level-2: We classify the videos by flagging or extracting parts/intervals of the
 video as suspicious or clean.
 
-## Training and Validation for FInal Model
+## Training and Validation for Final Model
 ![sus_2](https://user-images.githubusercontent.com/58057238/107314289-51675d80-6a62-11eb-9bfd-9326dec57073.PNG)
 
 # Libraries used in Python
